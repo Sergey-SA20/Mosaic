@@ -1,0 +1,24 @@
+{
+  "name": "Mosaic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "homepage": "https://Sergey-SA20.github.io/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sergey-SA20/Mosaic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sergey-SA20/Mosaic/issues"
+  },
+  "homepage": "https://github.com/Sergey-SA20/Mosaic#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
