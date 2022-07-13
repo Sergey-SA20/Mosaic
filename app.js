@@ -12,7 +12,6 @@ for (let i = 0; i < SQUARES_NUMBER; i++) {
     })
 
     square.addEventListener('mouseleave', () => {
-        console.log(1)
         removeColor(square)
     })
     
