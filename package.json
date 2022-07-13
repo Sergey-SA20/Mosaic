@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
-  "homepage": "https://github.com/Sergey-SA20/Mosaic#readme",
+  "homepage": "https://github.com/Sergey-SA20/Mosaic",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
